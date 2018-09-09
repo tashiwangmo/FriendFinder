@@ -7,3 +7,4 @@ The user responds to questions with values from 1 (Strongly Disagree) to 5 (Stro
 
 Friend Finder application is meant to simulate a simple friend matching app. For this application, Node.js and Express server are used on the backend and Materialize was used for CSS framework on the frontend.
 
+https://friendfinder-assignment.herokuapp.com/
